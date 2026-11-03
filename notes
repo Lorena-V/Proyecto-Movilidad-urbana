@@ -1,0 +1,7 @@
+mi_proyecto_Movilidad_urbana_y_productividad_economica/
+│
+├── data/               <-- Aqui guardaras tus archivos CSV, Excel, etc.
+├── notebooks/          <-- Para tus archivos Jupyter de exploracion (.ipynb)
+├── src/                <-- Para scripts formales de Python (.py) si los usas
+├── outputs/            <-- Para graficos exportados o tablas procesadas
+└── requirements.txt    <-- Archivo con las librerias del proyecto
